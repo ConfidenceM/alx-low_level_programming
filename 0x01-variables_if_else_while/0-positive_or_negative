@@ -1,12 +1,11 @@
 #include <stdio.h>
-#include <stdlid.h>
 #include <time.h>
 
 /**
 *main-entry point of programs
 *
 *Return: return 0
-*/
+*/betty code for fuction main goes there*
 int main(void)
 
 {
@@ -23,6 +22,6 @@ else if (n > 0)
 printf("%d is positive\n",n);
 }
 else
-printf(%d is zero\n);
+printf('%d is zero\n',n);
 return(0);
 }
