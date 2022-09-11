@@ -14,13 +14,14 @@ letter = tolower(letter);
 putchar(letter);
 if (letter == 'z')
 {
-letter = 'A'
-for (; letter <= 'Z'; letter++)
-}
-putchar(letter);
+letter = 'a'	
+for (; letter <= 'Z'; letter++)							
 {
+	putchar(letter);
+}
 break;
-
+}
+}
 putchar('\n');
 return (0);
 }
