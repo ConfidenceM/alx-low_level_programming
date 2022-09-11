@@ -1,16 +1,10 @@
 #include <stdio.h>
 
-/**
+/*
+ *main - main function
  *
- * *main - main function
- *
- * *
- *
- * *
- *
- * *Return: return 0
- *
- * */
+ * *Return: return  0
+ **/
 
 int main(void)
 
