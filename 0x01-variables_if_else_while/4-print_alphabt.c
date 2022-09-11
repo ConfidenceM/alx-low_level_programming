@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * main - Program to alphebet letters except q and e by new line
+ * main -program to print letters except q and e followed by a new line
  *
  * Return : retuen 0
  */
@@ -12,11 +12,9 @@ int main(void)
 	for (letter = 'a'; letter <= 'z'; letter++)
 	{
 		if (letter == 'q' || letter == 'e')
-		{
 			continue;
-		}
 		putchar(letter);
+			putchar('\n');
+			return (0);
 	}
-	putchar(letter);
-	return (0);
 }
