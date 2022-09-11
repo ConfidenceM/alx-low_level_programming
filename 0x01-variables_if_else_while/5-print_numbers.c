@@ -1,9 +1,4 @@
 #include <stdio.h>
-/**
- *main - prints all single digits of base 10 followed by new line
- *
- *Return : returns 0
- */
 int main(void)
 
 {
