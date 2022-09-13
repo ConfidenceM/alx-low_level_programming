@@ -2,7 +2,8 @@
 
 /**
  * prints-alphabets x10 lowercase on a new line
- * print alphabet_x10 void to 0
+ * print alphabet_x10 void = 0
+ * returns =alaways sucess
  */
 
 void print_alphabet_x10(void)
@@ -16,4 +17,5 @@ void print_alphabet_x10(void)
 			_putchar(j);
 
 	_putchar('\n');
+return (0);
 }
