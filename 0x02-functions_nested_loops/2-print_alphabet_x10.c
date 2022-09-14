@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print alphabet funnction - prints-alphabets x10 lowercase on a new line
+ *print_alphabet_x10- prints-alphabets x10 lowercase on a new line
  * returns =alaways sucess
  */
 
