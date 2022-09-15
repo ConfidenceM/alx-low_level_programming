@@ -35,4 +35,3 @@ _putchar(number);
 _putchar(10);
 
 }
-
