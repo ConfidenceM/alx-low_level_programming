@@ -1,19 +1,17 @@
 #include "main.h"
-
-/**
- *print_alphabet_x10- prints-alphabets x10 lowercase on a new line
- * returns =alaways sucess
- */
-
-void print_alphabet_x10(void)
+/*
+*print_alphabet_x10 -function to print abc 10 times
+*Return : 0
+*/
+void print-alphabet_x10(void)
 {
-int counter = 0;
-int j;
-while (counter++ <= 9)
+char c, i;
+
+	for (i = 0; i <= 9; i++)
 {
- for (j = 'a'; j <= 'z'; j++)
-_putchar(j);
-
-_putchar(10);
-
+	for (c = 'a'; c <= 'z'; c++)
+	{
+	_putchar(c);
+	}
+	_putchar('\n')
 }
