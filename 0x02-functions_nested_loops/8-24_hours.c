@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer- function that prints every munite of the day of jack bauer
+ *jack_bauer- function that prints every munite of the day
  * starting from 00:00 to 23:59,min loop counts mins,while hourloopcounts hours
  * and rests mins
  * return: 0
@@ -16,15 +16,15 @@ int jack_bauer(void)
 	{
 	while (minutes <= 59)
 	{
-	hours reminder = hours % 10;
+	hours ; reminder = hours % 10;
 	
 	_putchar(hours / 10 + '0');
 	_putchar(hours_reminder + '0');
 	_putchar(':');
-	_putchar(munites / 10 + '0');
+	_putchar(minutes / 10 + '0');
 	_putchar(mins_reminder + '0');
 	minutes++;
-	_putchar('\n');
+        _putchar('\n');
 	}
 	hours++;
 	minutes = 0;
