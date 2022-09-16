@@ -22,7 +22,7 @@ int main(void)
 {
 
 	letter = 'A';
-	for (; letter <= 'Z'; letter
+	for (; letter <= 'Z'; letter)
 }
 
 	putchar(letter);
