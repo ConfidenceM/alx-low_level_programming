@@ -3,15 +3,9 @@
 
 
 /**
-
- * puts2 - prints part of a string
-
+ * puts2-prints part of a string
  * @str: string to be printed
-
- *
-
  * Return: void
-
  **/
 
 void puts2(char *str)

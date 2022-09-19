@@ -1,11 +1,8 @@
 #include "main.h"
 
 /**
-
-* print_rev - prints a string in reverse
-
+* print_rev-prints a string in reverse
 * @s: string to print
-
 */
 
 
@@ -33,13 +30,9 @@ _putchar('\n');
 
 
 /**
-
- *_strlen - returns the length of a string
-
+ *_strlen-returns the length of a string
  * @s: string
-
  *Return: returns lenght;
-
  */
 
 int _strlen(char *s)

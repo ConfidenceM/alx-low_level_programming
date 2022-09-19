@@ -1,13 +1,9 @@
 #include "main.h"
 
 /**
-
-*rev_string - Reverse a string
-
+*rev_string-Reverse a string
 *@s: String to reverse
-
 *Return: Nothing
-
 */
 
 void rev_string(char *s)
@@ -35,13 +31,9 @@ length--;
 
 
 /**
-
- *_strlen - returns the length of a string
-
+ *_strlen-returns the length of a string
  * @s: string
-
  *Return: returns lenght;
-
  */
 
 int _strlen(char *s)
@@ -66,14 +58,10 @@ return (inc);
 
 /**
 
-*swap_char - swap two characters
-
+*swap_char-swap two characters
 *@a: first character
-
 *@b: second character
-
 *Return: nothing
-
 */
 
 
