@@ -57,7 +57,6 @@ return (inc);
 
 
 /**
-
 *swap_char-swap two characters
 *@a: first character
 *@b: second character

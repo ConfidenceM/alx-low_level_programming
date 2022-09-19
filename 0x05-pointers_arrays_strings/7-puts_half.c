@@ -45,7 +45,6 @@ _putchar('\n');
 
 
 /**
-
  *_strlen-returns the length of a string
  * @s: string
  *Return: returns lenght;
