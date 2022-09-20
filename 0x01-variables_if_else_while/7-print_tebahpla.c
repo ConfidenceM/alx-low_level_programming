@@ -3,13 +3,9 @@
 #include <ctype.h>
 
 /**
-
-*main - Program to print alphabet letters in reverse followed by new line
-
+*main-Program to print alphabet letters in reverse followed by new line
 *
-
 *Return: return 0
-
 */
 
 int main(void)

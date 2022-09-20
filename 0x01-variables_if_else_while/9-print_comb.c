@@ -3,13 +3,9 @@
 #include <ctype.h>
 
 /**
-
-*main - Prints all single digits with , and space followed by new line
-
+*main-Prints all single digits with , and space followed by new line
 *
-
 *Return: returns 0
-
 */
 
 int main(void)

@@ -1,7 +1,7 @@
 #include <stdio>
 
-/*
- * main assign a random nummber to variable
+/**
+ * main-assign a random nummber to variable
  * and print last of number stored
  * return : always success
  */
