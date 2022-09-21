@@ -5,25 +5,15 @@
 *@str: string to capitalize
 *Return:returns the capitalized string
 */
-
 char *cap_string(char *str)
-
 {
 
 	int index = 0;
 
-
-
 	while (str[++index])
-
 	{
-
 		while (!(str[index] >= 'a' && str[index] <= 'z'))
-
 			index++;
-
-
-
 		if (str[index - 1] == ' ' ||
 
 				str[index - 1] == '\t' ||
@@ -57,18 +47,4 @@ char *cap_string(char *str)
 	return (str);
 
 }
-
-Footer
-
-© 2022 GitHub, Inc.
-
-Footer navigation
-
-Terms
-
-Privacy
-
-Security
-
-Status
 
