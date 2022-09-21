@@ -3,13 +3,9 @@
 
 
 /**
-
-*string_toupper - changes all lowercases letters of a string to uppercase
-
+*string_toupper-changes all lowercases letters of a string to uppercase
 *@str: parameter
-
-*Return: returns a character
-
+*Return: returns a characte
 */
 
 
