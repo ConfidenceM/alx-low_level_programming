@@ -2,7 +2,7 @@
 
 /**
  *free_list-Frees a list
- * head: A pointer to the list head
+ * head-pointer to the list head
  *
  */
 
